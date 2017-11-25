@@ -1,3 +1,6 @@
+#Sunidhi
+#Learn IT project
+#Making a simple calculator
 
 print("Press the indicated numbers for corresponding operations:\n"
       "1. Addition\n"
